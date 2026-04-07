@@ -74,6 +74,42 @@ activities = {
         "schedule": "Tuesdays, 4:00 PM - 5:00 PM",
         "max_participants": 20,
         "participants": ["ryan@mergington.edu"]
+    },
+    "Volleyball Team": {
+        "description": "Competitive volleyball training and league play",
+        "schedule": "Tuesdays and Thursdays, 5:00 PM - 6:30 PM",
+        "max_participants": 14,
+        "participants": ["jessica@mergington.edu", "tyler@mergington.edu"]
+    },
+    "Swimming Team": {
+        "description": "Competitive swimming and diving training",
+        "schedule": "Mondays, Wednesdays, Fridays, 4:00 PM - 5:00 PM",
+        "max_participants": 20,
+        "participants": ["casey@mergington.edu"]
+    },
+    "Music Band": {
+        "description": "Instrumental music performance and concert preparation",
+        "schedule": "Wednesdays and Fridays, 3:30 PM - 4:30 PM",
+        "max_participants": 22,
+        "participants": ["ethan@mergington.edu", "grace@mergington.edu"]
+    },
+    "Photography Club": {
+        "description": "Digital photography, editing, and visual storytelling",
+        "schedule": "Thursdays, 3:30 PM - 5:00 PM",
+        "max_participants": 15,
+        "participants": ["harper@mergington.edu"]
+    },
+    "Math Club": {
+        "description": "Problem-solving, competitions, and advanced mathematics topics",
+        "schedule": "Mondays, 4:00 PM - 5:00 PM",
+        "max_participants": 18,
+        "participants": ["lucas@mergington.edu", "noah@mergington.edu"]
+    },
+    "Robotics Club": {
+        "description": "Build and program robots for competitions and challenges",
+        "schedule": "Wednesdays and Fridays, 4:30 PM - 6:00 PM",
+        "max_participants": 16,
+        "participants": ["sophia@mergington.edu", "mason@mergington.edu"]
     }
 }
 
